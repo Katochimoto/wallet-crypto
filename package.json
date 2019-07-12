@@ -1,5 +1,5 @@
 {
-  "name": "wallet-crypto",
+  "name": "@rikishi/wallet-crypto",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
