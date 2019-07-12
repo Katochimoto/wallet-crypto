@@ -10003,10 +10003,10 @@
                     if (number <= x || number >= y) throw RangeError(message)
                 }
             }).call(this, {
-                "isBuffer": require("../../../../../../../../usr/local/lib/node_modules/browserify/node_modules/is-buffer/index.js")
+                "isBuffer": require("is-buffer")
             })
         }, {
-            "../../../../../../../../usr/local/lib/node_modules/browserify/node_modules/is-buffer/index.js": 64
+            "is-buffer": 64
         }],
         43: [function (require, module, exports) {
             (function (Buffer) {
@@ -12970,10 +12970,10 @@
                     return Object.prototype.toString.call(o);
                 }
             }).call(this, {
-                "isBuffer": require("../../is-buffer/index.js")
+                "isBuffer": require("is-buffer")
             })
         }, {
-            "../../is-buffer/index.js": 64
+            "is-buffer": 64
         }],
         61: [function (require, module, exports) {
             // Copyright Joyent, Inc. and other Node contributors.
